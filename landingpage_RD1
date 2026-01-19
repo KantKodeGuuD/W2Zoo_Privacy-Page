@@ -10,7 +10,7 @@
       padding: 0;
       height: 100%;
       font-family: 'Arial', Helvetica, sans-serif;
-      background: #000000 url(WHOLE ZOO_FINAL.jpeg) no-repeat center center fixed;
+      background: #000000 url(WHOLE_ZOO_FINAL.jpeg) no-repeat center center fixed;
       background-size: cover; /* or contain if emblem is detailed */
       color: #ffffff;
       display: flex;
